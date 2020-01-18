@@ -5,5 +5,5 @@ height = input()
 print("how much do you weigh?")
 weight = input()
 
-print("So, you're %r years old, %r tall and %r heavy. "%
+print("So, you're %d years old, %s tall and %s heavy. "%
       (age, height, weight))
